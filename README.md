@@ -4,4 +4,4 @@
 ## Roll No. : 220150005
 ## Branch : DSAI
 
-Hello, myself Karan. I found this course very knowledgeable and useful for future references.
+Hello, myself Karan. I have a keen interest in ML and AI.
